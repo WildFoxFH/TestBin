@@ -1,5 +1,5 @@
 # TestBin
-First test Bin
+Greetings and Salutations
 Hello World
 Welcome to my first Program ever
 i hope you like what you are reading
